@@ -1,3 +1,5 @@
 inzynieria oprogramowania
 =========================
-Jakub Lekacz, Sebastian Kromka gr.2
+Informatyka Stosowana
+Rok III Gr.2
+Jakub Lekacz, Sebastian Kromka
