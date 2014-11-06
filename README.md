@@ -1,6 +1,6 @@
 Inzynieria Oprogramowania
 =========================
-Mierda Stosowana
+Informatyka Stosowana
 ----------------------
 Rok III Gr.2
 ----------------------
