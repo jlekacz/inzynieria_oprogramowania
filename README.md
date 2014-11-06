@@ -4,4 +4,4 @@ Informatyka Stosowana
 ----------------------
 Rok III Gr.2
 ----------------------
-Jakub Lekacz, Sebastian Kroma
+Jakub Lekacz, Sebastiano Kroma
