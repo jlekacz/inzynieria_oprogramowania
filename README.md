@@ -1,7 +1,7 @@
 Inzynieria Oprogramowania
 =========================
-Informatyka Stosowana
+Mierda Stosowana
 ----------------------
 Rok III Gr.2
 ----------------------
-Jakub Lekacz, Sebastiano Kroma
+Jakub Lekacz, Sebastian Kromka
